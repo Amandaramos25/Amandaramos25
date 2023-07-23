@@ -23,7 +23,7 @@ Sou estudante de sistemas de informação. Busco projetos que impactem positivam
 #
 
 ### Para entrar em contato comigo você pode utilizar:
-&nbsp;<a href="amanda.ramos25@hotmail.com">
+&nbsp;<a href="mailto:amanda.ramos25@hotmail.com">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 </a>&nbsp;
 &nbsp;<a href="https://www.linkedin.com/in/amanda-machado-a66994156/">
