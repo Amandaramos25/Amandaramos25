@@ -36,13 +36,18 @@ Sou estudante de sistemas de informação. Busco projetos que impactem positivam
 </a>&nbsp;
 
 ### Alguns dos meus projetos:
+- ReViva Lixo - Olimpíadas de Inovação IFMG 2023 - Pitch Elevator [YouTube]</br>
 </a>&nbsp;&nbsp;<a href="https://youtu.be/OVYUvRXh3uQ">
-  ReViva Lixo - Olimpíadas de Inovação IFMG 2023 - Pitch Elevator [YouTube]
-</a>&nbsp;
-Participação na criação de uma plataforma de locação de veículos sustentáveis [GitHub]
+Elevator Pitch
+</a>&nbsp;</br>
+- Participação na criação de uma plataforma de locação de veículos sustentáveis [GitHub]</br>
 </a>&nbsp;&nbsp;<a href="https://github.com/limadan/eco-green-go-car">
   -FrontEnd
-</a>&nbsp;
+</a>&nbsp;</br>
 </a>&nbsp;&nbsp;<a href="https://github.com/limadan/api-eco-green-go-car">
   -API
 </a>&nbsp;
+- Estudo e implementação de diferentes métodos de ordenação [GitHub]</br>
+</a>&nbsp;&nbsp;<a href="https://github.com/Amandaramos25/Metodos_de_Ordenacao">
+Implementação
+</a>&nbsp;</br>
