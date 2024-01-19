@@ -39,3 +39,10 @@ Sou estudante de sistemas de informação. Busco projetos que impactem positivam
 </a>&nbsp;&nbsp;<a href="https://youtu.be/OVYUvRXh3uQ">
   ReViva Lixo - Olimpíadas de Inovação IFMG 2023 - Pitch Elevator [YouTube]
 </a>&nbsp;
+Participação na criação de uma plataforma de locação de veículos sustentáveis [GitHub]
+</a>&nbsp;&nbsp;<a href="https://github.com/limadan/eco-green-go-car">
+  -FrontEnd
+</a>&nbsp;
+</a>&nbsp;&nbsp;<a href="https://github.com/limadan/api-eco-green-go-car">
+  -API
+</a>&nbsp;
